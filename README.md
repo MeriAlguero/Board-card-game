@@ -3,7 +3,7 @@
 Board and card game project currently in documentation stage, with plans for future playable development.
 The project focuses on defining the rules, card interactions, board structure, core mechanics and gameplay loop before moving into implementation.
 
-Repository: Board-card-game
+Repository: [Board-card-game](https://github.com/MeriAlguero/Board-card-game)
 
 Current status: Documentation / design phase
 
